@@ -1,0 +1,2 @@
+# Inheritance
+python Inheritance Example
